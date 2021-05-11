@@ -2,7 +2,7 @@
 
 > 默认从最新发布的tag构建,每次构建会自动清空18PlusList.txt
 
-> 当前最新tag:3.21.051020 上次检查时间:2021-05-11 02:13:38
+> 当前最新tag:3.21.051120 上次检查时间:2021-05-12 02:13:46
   
 1. fork到你自己的仓库
 2. 去你自己的仓库,点一下右上角star就会自动开始构建,已经star的点unstar,再点一下star就会进行新的构建,你的[Actions](https://github.com/10bits/gedoor-Build/actions)列表会有显示的
